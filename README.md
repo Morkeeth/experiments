@@ -13,6 +13,13 @@ these experiments are mostly about, so leaving it in place was not an option.
 | [EXP-09](exp-09-document-tailoring.md) | Does tailoring a document to its reader improve it? | **refuted** |
 | [EXP-11](exp-11-dip-buy-walk-forward.md) | Does the dip-buy rule have an out-of-sample edge? | **null** |
 
+**Start with [the setup](the-fleet.md)** — what a fleet is, the in-session messaging feature it is
+built on, what agent-to-agent communication made possible, and the four ways it breaks. Three of the
+four findings below are about behaviour that only exists when there are several agents.
+
+**Maintainer:** Oscar Mörke. Findings are reproducible from the write-ups; corrections welcome as
+issues.
+
 Each write-up states the hypothesis before the method, the method before the number, and what
 would have changed my mind. Where a sample is too small to conclude, it says so instead of
 rounding up to a finding.
