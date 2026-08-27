@@ -17,6 +17,9 @@ these experiments are mostly about, so leaving it in place was not an option.
 built on, what agent-to-agent communication made possible, and the four ways it breaks. Three of the
 four findings below are about behaviour that only exists when there are several agents.
 
+**Then [what's missing](whats-missing.md)** — the operating theory this repo has named and not
+measured, and the next runs that would settle it. A review, not an experiment.
+
 **Maintainer:** Oscar Mörke. Findings are reproducible from the write-ups; corrections welcome as
 issues.
 

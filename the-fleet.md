@@ -54,6 +54,9 @@ window, with the definition of "error" written down **before** the run rather th
 number has been quoted at four different values inside one day by people who never agreed on the
 unit, which is exactly why it is not quoted here.
 
+The next runs that would actually settle that claim — and the other named-but-unmeasured parts of
+this setup — are in [what's missing](whats-missing.md).
+
 ## Reproducing any of this
 
 The tool and its findings are public at [github.com/Morkeeth/fleet](https://github.com/Morkeeth/fleet).
