@@ -6,6 +6,28 @@ The published set is four questions, three of them failed, all of them written s
 
 This is not a list of interesting papers. It is the next runs that would settle something this repo has already named and then left standing.
 
+## What is actionable
+
+Nine hypotheses is a menu. Two of them can start without building anything, and they are the
+only ones that should start.
+
+**Do not dispatch a new fleet for this.** EXP-12 scores transcripts you already have.
+EXP-13 is one planted lie on one real task, two terminals, n=1.
+
+| When | Do | Stop when |
+|---|---|---|
+| Before any new run | Fill [unpublished.md](unpublished.md). Every blank row is the same failure this repo was created to stop. | Every gap has a sentence or a retire. |
+| Same sitting | Freeze EXP-12's window, source, and scorer on the page. Then score. Coordinator does not score itself. | The table has rates, or you write why the window had no candidates. |
+| Next working session | Freeze EXP-13's lie on the page. Dispatch arm A and arm B in one breath. Hash the handoff. | Two rows filled. Do not add a third arm. Do not average n=1. |
+| After those two exist | Decide whether a larger containment RCT is still worth it. | Not before. |
+
+Everything else in this file waits. Terminus 2, a tools-on EXP-09, a powered trading sample,
+RETRACT-vs-delete, a second operator — those are real experiments and they are not this week's
+work. Running them instead of 12 and 13 is how error containment stays a story.
+
+**Stop doing:** another throughput bake-off, another leaderboard scrape, another dip-buy
+cousin, quoting "a fleet beats solo" without "unfalsified" after it.
+
 ## What the published set actually covers
 
 | # | Question class | What it settled |

@@ -12,6 +12,10 @@ these experiments are mostly about, so leaving it in place was not an option.
 | [EXP-07](exp-07-harness-premium.md) | Does a model's native scaffold beat a generic harness? | **refuted** (re-analysis, not my run) |
 | [EXP-09](exp-09-document-tailoring.md) | Does tailoring a document to its reader improve it? | **refuted** |
 | [EXP-11](exp-11-dip-buy-walk-forward.md) | Does the dip-buy rule have an out-of-sample edge? | **null** |
+| [EXP-12](exp-12-relayed-claims.md) | Does the coordinator pass unmarked numbers it never opened? | **unrun** |
+| [EXP-13](exp-13-planted-premise.md) | Does a lane falsify a planted coordinator premise? | **unrun** |
+
+Skipped numbers: [01, 02, 03, 05, 06, 08, 10](unpublished.md) — fill or retire before assigning 14.
 
 **Start with [the setup](the-fleet.md)** — what a fleet is, the in-session messaging feature it is
 built on, what agent-to-agent communication made possible, and the four ways it breaks. Three of the
