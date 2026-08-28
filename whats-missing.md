@@ -8,25 +8,20 @@ This is not a list of interesting papers. It is the next runs that would settle 
 
 ## What is actionable
 
-Nine hypotheses is a menu. Two of them can start without building anything, and they are the
-only ones that should start.
-
-**Do not dispatch a new fleet for this.** EXP-12 scores transcripts you already have.
-EXP-13 is one planted lie on one real task, two terminals, n=1.
+Two tracks. 12 and 13 still exist and still do not need a new fleet. 14–17 are the
+ambitious lanes: they need the wire, a labelled panel, or both. Dispatch from
+[lanes.md](lanes.md).
 
 | When | Do | Stop when |
 |---|---|---|
-| Before any new run | Fill [unpublished.md](unpublished.md). Every blank row is the same failure this repo was created to stop. | Every gap has a sentence or a retire. |
-| Same sitting | Freeze EXP-12's window, source, and scorer on the page. Then score. Coordinator does not score itself. | The table has rates, or you write why the window had no candidates. |
-| Next working session | Freeze EXP-13's lie on the page. Dispatch arm A and arm B in one breath. Hash the handoff. | Two rows filled. Do not add a third arm. Do not average n=1. |
-| After those two exist | Decide whether a larger containment RCT is still worth it. | Not before. |
+| First | [EXP-15](exp-15-delivery-is-not-success.md). The August 2026 `send_message` bugs mean success is not delivery. Hash payloads before each send. | The five-condition table has n ≥ 20, or you write that this build delivers. |
+| If delivery rate is 0 | Do not run 13 or 16. Write "wire is down" on those files. |  |
+| If delivery rate > 0 | [EXP-13](exp-13-planted-premise.md) (n=1 miniature) then [EXP-16](exp-16-verify-at-handoff.md) (planted claims at the boundary). | Two rows on 13; three arms on 16. |
+| Same panel, labelled first | [EXP-17](exp-17-sequential-penalty.md) and [EXP-14](exp-14-error-flow.md). Sequential vs decomposable written down before any terminal starts. Independent scorer. | Both slices n ≥ 4; both direction tables filled. |
+| Anytime, no dispatch | [EXP-12](exp-12-relayed-claims.md) on existing transcripts. Fill [unpublished.md](unpublished.md). |  |
 
-Everything else in this file waits. Terminus 2, a tools-on EXP-09, a powered trading sample,
-RETRACT-vs-delete, a second operator — those are real experiments and they are not this week's
-work. Running them instead of 12 and 13 is how error containment stays a story.
-
-**Stop doing:** another throughput bake-off, another leaderboard scrape, another dip-buy
-cousin, quoting "a fleet beats solo" without "unfalsified" after it.
+**Stop doing:** another unlabelled six-lane bake-off, quoting Kim's 17.2× as if it were
+measured here, running 13 on a build that does not enqueue.
 
 ## What the published set actually covers
 

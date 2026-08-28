@@ -5,7 +5,8 @@
 This is the causal miniature of the error-containment claim in [the setup](the-fleet.md).
 It is not the three-arm RCT. It is one planted lie, two arms, n=1, labelled as such. Run
 this before designing a larger containment study. Do not add arms after seeing the first
-result.
+result. Do not run it until [EXP-15](exp-15-delivery-is-not-success.md) shows a non-zero
+delivery rate on this build — otherwise the lane never heard the coordinator.
 
 ## Hypothesis, written before dispatch
 

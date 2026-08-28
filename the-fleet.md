@@ -55,7 +55,11 @@ number has been quoted at four different values inside one day by people who nev
 unit, which is exactly why it is not quoted here.
 
 The next runs that would actually settle that claim — and the other named-but-unmeasured parts of
-this setup — are in [what's missing](whats-missing.md).
+this setup — are in [what's missing](whats-missing.md). Dispatch them as lanes from
+[lanes.md](lanes.md). The 2026 literature measured error amplification *downward* (worker to
+output). This setup's claim is the other direction. That is [EXP-14](exp-14-error-flow.md). The
+wire the claim runs on currently reports success without enqueueing; that is
+[EXP-15](exp-15-delivery-is-not-success.md), and it goes first.
 
 ## Reproducing any of this
 

@@ -14,8 +14,15 @@ these experiments are mostly about, so leaving it in place was not an option.
 | [EXP-11](exp-11-dip-buy-walk-forward.md) | Does the dip-buy rule have an out-of-sample edge? | **null** |
 | [EXP-12](exp-12-relayed-claims.md) | Does the coordinator pass unmarked numbers it never opened? | **unrun** |
 | [EXP-13](exp-13-planted-premise.md) | Does a lane falsify a planted coordinator premise? | **unrun** |
+| [EXP-14](exp-14-error-flow.md) | Do errors flow down from lanes or up from the coordinator? | **unrun** |
+| [EXP-15](exp-15-delivery-is-not-success.md) | Does `send_message` success mean the recipient got it? | **unrun** |
+| [EXP-16](exp-16-verify-at-handoff.md) | Does probing at the peer-message boundary cut planted-claim survival? | **unrun** |
+| [EXP-17](exp-17-sequential-penalty.md) | Is EXP-04's null the sequential penalty on coding work? | **unrun** |
 
-Skipped numbers: [01, 02, 03, 05, 06, 08, 10](unpublished.md) — fill or retire before assigning 14.
+Skipped numbers: [01, 02, 03, 05, 06, 08, 10](unpublished.md) — fill or retire. 14–17 were
+assigned anyway because the next runs are lanes, not a fifth throughput number.
+
+**Dispatch from [lanes.md](lanes.md).** 15 before 13 and 16. 14 and 17 share a task panel.
 
 **Start with [the setup](the-fleet.md)** — what a fleet is, the in-session messaging feature it is
 built on, what agent-to-agent communication made possible, and the four ways it breaks. Three of the
@@ -23,6 +30,8 @@ four findings below are about behaviour that only exists when there are several 
 
 **Then [what's missing](whats-missing.md)** — the operating theory this repo has named and not
 measured, and the next runs that would settle it. A review, not an experiment.
+
+**Dispatch from [lanes.md](lanes.md)** — one outcome per terminal. 15 before 13 and 16.
 
 **Maintainer:** Oscar Mörke. Findings are reproducible from the write-ups; corrections welcome as
 issues.
